@@ -6,11 +6,7 @@ In order to develop an accurate localization system for robots, we have implemen
 <br>
 <b>References</b>
 <ol>
-  <li>https://www.researchgate.net/publication/221645389_Dead_Reckoning_for_
-Mobile_Robots_Using_Two_Optical_Mice?enrichId=rgreq-3843766b9040e
-fe08de2bd72c4f78e48-XXX&enrichSource=Y292ZXJQYWdlOzIyMTY0N
-TM4OTtBUzoxMDIwNjMyMDc4Nzg2NTdAMTQwMTM0NTE3MzA3M
-Q%3D%3D&el=1_x_2&_esc=publicationCoverPdf</li>
+  <li>https://www.researchgate.net/publication/221645389_Dead_Reckoning_for_Mobile_Robots_Using_Two_Optical_Mice?enrichId=rgreq-3843766b9040efe08de2bd72c4f78e48-XXX&enrichSource=Y292ZXJQYWdlOzIyMTY0NTM4OTtBUzoxMDIwNjMyMDc4Nzg2NTdAMTQwMTM0NTE3MzA3MQ%3D%3D&el=1_x_2&_esc=publicationCoverPdf</li>
   <li>https://python-evdev.readthedocs.io/en/latest/</li>
   <li>https://numpy.org/doc/</li>
   <li>https://www.raspberrypi.org/</li>
