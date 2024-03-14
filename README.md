@@ -26,7 +26,7 @@ of robotics, where precise tracking of a robot's position is essential for effec
 navigation and obstacle avoidance. For instance, it can be implemented in self-cleaning
 robots that require knowledge of their position to thoroughly clean every corner of a
 room, as well as in tasks involving navigation and obstacle avoidance.
-
+<br>
 <b>References</b>
 <ol>
   <li>https://www.researchgate.net/publication/221645389_Dead_Reckoning_for_Mobile_Robots_Using_Two_Optical_Mice?enrichId=rgreq-3843766b9040efe08de2bd72c4f78e48-XXX&enrichSource=Y292ZXJQYWdlOzIyMTY0NTM4OTtBUzoxMDIwNjMyMDc4Nzg2NTdAMTQwMTM0NTE3MzA3MQ%3D%3D&el=1_x_2&_esc=publicationCoverPdf</li>
